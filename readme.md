@@ -4,7 +4,7 @@
 
 LICENCE: [MIT](./licence.md)
 
-![git-logo](./images/git-logo.png)
+![git-logo](./img/git-logo.png)
 
 ---
 
